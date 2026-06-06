@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastUpdated": "2026-06-05",
+    "lastUpdated": "2026-06-06",
     "tagline": "Tracking every Anthropic & Claude launch — and how it stacks up against the field.",
     "sources": [
       {
@@ -128,22 +128,22 @@
     {
       "date": "2026-06-05",
       "type": "feature",
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
-      "tags": [
-        "News"
-      ],
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "feature",
       "title": "Widening the conversation on frontier AI",
       "summary": "Over the past several months, we’ve been organizing dialogues with groups whose work and traditions bear on the questions raised by AI.",
       "tags": [
         "News"
       ],
       "url": "https://www.anthropic.com/news/widening-conversation-ai"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "feature",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+      "tags": [
+        "News"
+      ],
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
     },
     {
       "date": "2026-06-03",
@@ -168,16 +168,6 @@
     {
       "date": "2026-06-01",
       "type": "feature",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
-      "tags": [
-        "News"
-      ],
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
-    },
-    {
-      "date": "2026-06-01",
-      "type": "feature",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
       "tags": [
@@ -186,24 +176,14 @@
       "url": "https://www.anthropic.com/news/series-h"
     },
     {
-      "date": "2026-05-28",
-      "type": "model",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
-      "tags": [
-        "Model"
-      ],
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
-    },
-    {
-      "date": "2026-05-28",
+      "date": "2026-06-01",
       "type": "feature",
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "summary": "We're opening a new office in Milan, our sixth in Europe.",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
       "tags": [
-        "Research"
+        "News"
       ],
-      "url": "https://www.anthropic.com/news/milan-office-opening"
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
     },
     {
       "date": "2026-05-28",
@@ -218,6 +198,26 @@
       "url": "https://www.anthropic.com/news/claude-opus-4-8"
     },
     {
+      "date": "2026-05-28",
+      "type": "feature",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "summary": "We're opening a new office in Milan, our sixth in Europe.",
+      "tags": [
+        "Research"
+      ],
+      "url": "https://www.anthropic.com/news/milan-office-opening"
+    },
+    {
+      "date": "2026-05-28",
+      "type": "model",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "tags": [
+        "Model"
+      ],
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+    },
+    {
       "date": "2026-05-26",
       "type": "feature",
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
@@ -230,22 +230,22 @@
     {
       "date": "2026-05-19",
       "type": "feature",
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "tags": [
-        "Research"
-      ],
-      "url": "https://www.anthropic.com/news/anthropic-kpmg"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "feature",
       "title": "Anthropic acquires Stainless",
       "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "tags": [
         "Research"
       ],
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+    },
+    {
+      "date": "2026-05-19",
+      "type": "feature",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "tags": [
+        "Research"
+      ],
+      "url": "https://www.anthropic.com/news/anthropic-kpmg"
     },
     {
       "date": "2026-05-15",
@@ -259,16 +259,6 @@
     },
     {
       "date": "2026-05-14",
-      "type": "feature",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-      "tags": [
-        "Research"
-      ],
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership"
-    },
-    {
-      "date": "2026-05-14",
       "type": "model",
       "title": "Introducing Claude for Small Business",
       "summary": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
@@ -278,14 +268,14 @@
       "url": "https://www.anthropic.com/news/claude-for-small-business"
     },
     {
-      "date": "2026-05-07",
+      "date": "2026-05-14",
       "type": "feature",
-      "title": "Introducing the Model Context Protocol",
-      "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
       "tags": [
-        "Feature"
+        "Research"
       ],
-      "url": "https://www.anthropic.com/news/model-context-protocol"
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership"
     },
     {
       "date": "2026-05-07",
@@ -298,35 +288,44 @@
       "url": "https://www.anthropic.com/news/finance-agents"
     },
     {
-      "date": "2026-04-16",
-      "type": "model",
-      "title": "Claude Opus 4.7",
-      "summary": "Big step up in advanced software engineering on the hardest tasks. Better long-horizon task rigor, self-verification, and substantially improved high-resolution vision.",
-      "tags": [
-        "Coding",
-        "Vision"
-      ],
-      "url": "https://www.anthropic.com/news/claude-opus-4-7"
-    },
-    {
-      "date": "2026-03-01",
+      "date": "2026-05-07",
       "type": "feature",
-      "title": "Fast mode for Opus",
-      "summary": "Faster Opus output without downgrading to a smaller model — toggle for latency-sensitive agentic work.",
+      "title": "Introducing the Model Context Protocol",
+      "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.",
       "tags": [
-        "Performance"
+        "Feature"
       ],
-      "url": "https://platform.claude.com/docs/en/release-notes/overview"
+      "url": "https://www.anthropic.com/news/model-context-protocol"
     },
     {
-      "date": "2026-02-10",
-      "type": "model",
-      "title": "Claude Haiku 4.5",
-      "summary": "Fast, low-cost tier refreshed for high-volume and edge agentic workloads.",
+      "date": "2026-05-06",
+      "type": "feature",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "summary": "We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term.",
       "tags": [
-        "Efficiency"
+        "News"
       ],
-      "url": "https://platform.claude.com/docs/en/release-notes/overview"
+      "url": "https://www.anthropic.com/news/higher-limits-spacex"
+    },
+    {
+      "date": "2026-05-04",
+      "type": "feature",
+      "title": "Building a new enterprise AI services company with Blackstone, Hellman & Friedman, and Goldman Sachs",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "tags": [
+        "Research"
+      ],
+      "url": "https://www.anthropic.com/news/enterprise-ai-services-company"
+    },
+    {
+      "date": "2026-05-01",
+      "type": "feature",
+      "title": "Claude for Creative Work",
+      "summary": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+      "tags": [
+        "Research"
+      ],
+      "url": "https://www.anthropic.com/news/claude-for-creative-work"
     }
   ],
   "upcoming": [
