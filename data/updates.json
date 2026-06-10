@@ -138,16 +138,6 @@
     {
       "date": "2026-06-05",
       "type": "feature",
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
-      "tags": [
-        "News"
-      ],
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "feature",
       "title": "Widening the conversation on frontier AI",
       "summary": "Anthropic is engaging scholars, clergy, and philosophers from diverse traditions to shape Claude’s moral character and ensure powerful AI acts for the global good.",
       "tags": [
@@ -155,6 +145,16 @@
         "Policy"
       ],
       "url": "https://www.anthropic.com/news/widening-conversation-ai"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "feature",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+      "tags": [
+        "News"
+      ],
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
     },
     {
       "date": "2026-06-03",
@@ -179,16 +179,6 @@
     {
       "date": "2026-06-01",
       "type": "feature",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
-      "tags": [
-        "News"
-      ],
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
-    },
-    {
-      "date": "2026-06-01",
-      "type": "feature",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
       "tags": [
@@ -198,24 +188,14 @@
       "url": "https://www.anthropic.com/news/series-h"
     },
     {
-      "date": "2026-05-28",
+      "date": "2026-06-01",
       "type": "feature",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
       "tags": [
-        "Model"
+        "News"
       ],
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
-    },
-    {
-      "date": "2026-05-28",
-      "type": "feature",
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "summary": "We're opening a new office in Milan, our sixth in Europe.",
-      "tags": [
-        "Research"
-      ],
-      "url": "https://www.anthropic.com/news/milan-office-opening"
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
     },
     {
       "date": "2026-05-28",
@@ -230,6 +210,26 @@
       "url": "https://www.anthropic.com/news/claude-opus-4-8"
     },
     {
+      "date": "2026-05-28",
+      "type": "feature",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "summary": "We're opening a new office in Milan, our sixth in Europe.",
+      "tags": [
+        "Research"
+      ],
+      "url": "https://www.anthropic.com/news/milan-office-opening"
+    },
+    {
+      "date": "2026-05-28",
+      "type": "feature",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "tags": [
+        "Model"
+      ],
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+    },
+    {
       "date": "2026-05-26",
       "type": "feature",
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
@@ -242,17 +242,6 @@
     {
       "date": "2026-05-19",
       "type": "feature",
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "summary": "KPMG will deploy Claude across its 276,000+ global employees and embed it into its Digital Gateway platform to enhance client services in tax, legal, and private equity work.",
-      "tags": [
-        "Enterprise",
-        "Partnership"
-      ],
-      "url": "https://www.anthropic.com/news/anthropic-kpmg"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "feature",
       "title": "Anthropic acquires Stainless",
       "summary": "Anthropic acquired Stainless, a company specializing in SDK generation and MCP server tooling, to help Claude agents connect more easily with external data and systems.",
       "tags": [
@@ -261,6 +250,17 @@
         "Agents"
       ],
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
+    },
+    {
+      "date": "2026-05-19",
+      "type": "feature",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "summary": "KPMG will deploy Claude across its 276,000+ global employees and embed it into its Digital Gateway platform to enhance client services in tax, legal, and private equity work.",
+      "tags": [
+        "Enterprise",
+        "Partnership"
+      ],
+      "url": "https://www.anthropic.com/news/anthropic-kpmg"
     },
     {
       "date": "2026-05-15",
@@ -276,17 +276,6 @@
     {
       "date": "2026-05-14",
       "type": "feature",
-      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
-      "summary": "Anthropic and the Gates Foundation are co-investing $200 million to deploy Claude across global health, education, and economic mobility programs in low- and middle-income countries over four years.",
-      "tags": [
-        "Partnership",
-        "Health"
-      ],
-      "url": "https://www.anthropic.com/news/gates-foundation-partnership"
-    },
-    {
-      "date": "2026-05-14",
-      "type": "feature",
       "title": "Introducing Claude for Small Business",
       "summary": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
       "tags": [
@@ -295,14 +284,15 @@
       "url": "https://www.anthropic.com/news/claude-for-small-business"
     },
     {
-      "date": "2026-05-07",
+      "date": "2026-05-14",
       "type": "feature",
-      "title": "Introducing the Model Context Protocol",
-      "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.",
+      "title": "Anthropic forms $200 million partnership with the Gates Foundation",
+      "summary": "Anthropic and the Gates Foundation are co-investing $200 million to deploy Claude across global health, education, and economic mobility programs in low- and middle-income countries over four years.",
       "tags": [
-        "Feature"
+        "Partnership",
+        "Health"
       ],
-      "url": "https://www.anthropic.com/news/model-context-protocol"
+      "url": "https://www.anthropic.com/news/gates-foundation-partnership"
     },
     {
       "date": "2026-05-07",
@@ -313,6 +303,16 @@
         "Feature"
       ],
       "url": "https://www.anthropic.com/news/finance-agents"
+    },
+    {
+      "date": "2026-05-07",
+      "type": "feature",
+      "title": "Introducing the Model Context Protocol",
+      "summary": "The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.",
+      "tags": [
+        "Feature"
+      ],
+      "url": "https://www.anthropic.com/news/model-context-protocol"
     },
     {
       "date": "2026-05-06",
