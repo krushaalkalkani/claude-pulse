@@ -138,16 +138,6 @@
     {
       "date": "2026-06-12",
       "type": "feature",
-      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
-      "summary": "We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.",
-      "tags": [
-        "News"
-      ],
-      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership"
-    },
-    {
-      "date": "2026-06-12",
-      "type": "feature",
       "title": "Results from first Anthropic Public Record",
       "summary": "Anthropic Public Record is a national survey of attitudes and opinions towards AI.",
       "tags": [
@@ -156,14 +146,14 @@
       "url": "https://www.anthropic.com/news/anthropic-public-record"
     },
     {
-      "date": "2026-06-11",
-      "type": "model",
-      "title": "Introducing Claude Corps",
-      "summary": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "date": "2026-06-12",
+      "type": "feature",
+      "title": "TCS and Anthropic partner to bring Claude to regulated industries",
+      "summary": "We’re announcing a partnership with Tata Consultancy Services (TCS). TCS will provide Claude to 50,000 of its own employees across 56 countries; build Claude-powered products for clients in financial services, healthcare, the public sector, and other regulated industries; and join the Claude Partner Network.",
       "tags": [
-        "Model"
+        "News"
       ],
-      "url": "https://www.anthropic.com/news/claude-corps"
+      "url": "https://www.anthropic.com/news/tcs-anthropic-partnership"
     },
     {
       "date": "2026-06-11",
@@ -174,6 +164,16 @@
         "News"
       ],
       "url": "https://www.anthropic.com/news/dxc-anthropic-alliance"
+    },
+    {
+      "date": "2026-06-11",
+      "type": "model",
+      "title": "Introducing Claude Corps",
+      "summary": "We’re launching Claude Corps, a national fellowship program for people early in their careers who are passionate about extending the benefits of AI to communities across America.",
+      "tags": [
+        "Model"
+      ],
+      "url": "https://www.anthropic.com/news/claude-corps"
     },
     {
       "date": "2026-06-09",
@@ -188,6 +188,16 @@
     {
       "date": "2026-06-05",
       "type": "feature",
+      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
+      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
+      "tags": [
+        "News"
+      ],
+      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
+    },
+    {
+      "date": "2026-06-05",
+      "type": "feature",
       "title": "Widening the conversation on frontier AI",
       "summary": "Anthropic is engaging scholars, clergy, and philosophers from diverse traditions to shape Claude’s moral character and ensure powerful AI acts for the global good.",
       "tags": [
@@ -195,16 +205,6 @@
         "Policy"
       ],
       "url": "https://www.anthropic.com/news/widening-conversation-ai"
-    },
-    {
-      "date": "2026-06-05",
-      "type": "feature",
-      "title": "Anthropic co-founder Chris Olah's remarks on Pope Leo XIV's encyclical \"Magnifica humanitas\"",
-      "summary": "The full text of Chris Olah's remarks on the Pope's encyclical on AI.",
-      "tags": [
-        "News"
-      ],
-      "url": "https://www.anthropic.com/news/chris-olah-pope-leo-encyclical"
     },
     {
       "date": "2026-06-03",
@@ -229,6 +229,16 @@
     {
       "date": "2026-06-01",
       "type": "feature",
+      "title": "Anthropic confidentially submits draft S-1 to the SEC",
+      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
+      "tags": [
+        "News"
+      ],
+      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+    },
+    {
+      "date": "2026-06-01",
+      "type": "feature",
       "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
       "summary": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
       "tags": [
@@ -238,14 +248,24 @@
       "url": "https://www.anthropic.com/news/series-h"
     },
     {
-      "date": "2026-06-01",
+      "date": "2026-05-28",
       "type": "feature",
-      "title": "Anthropic confidentially submits draft S-1 to the SEC",
-      "summary": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
+      "title": "Introducing Claude Design by Anthropic Labs",
+      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
       "tags": [
-        "News"
+        "Model"
       ],
-      "url": "https://www.anthropic.com/news/confidential-draft-s1-sec"
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
+    },
+    {
+      "date": "2026-05-28",
+      "type": "feature",
+      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
+      "summary": "We're opening a new office in Milan, our sixth in Europe.",
+      "tags": [
+        "Research"
+      ],
+      "url": "https://www.anthropic.com/news/milan-office-opening"
     },
     {
       "date": "2026-05-28",
@@ -260,26 +280,6 @@
       "url": "https://www.anthropic.com/news/claude-opus-4-8"
     },
     {
-      "date": "2026-05-28",
-      "type": "feature",
-      "title": "Anthropic opens Milan office to support Italian enterprise, research, and developers",
-      "summary": "We're opening a new office in Milan, our sixth in Europe.",
-      "tags": [
-        "Research"
-      ],
-      "url": "https://www.anthropic.com/news/milan-office-opening"
-    },
-    {
-      "date": "2026-05-28",
-      "type": "feature",
-      "title": "Introducing Claude Design by Anthropic Labs",
-      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
-      "tags": [
-        "Model"
-      ],
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs"
-    },
-    {
       "date": "2026-05-26",
       "type": "feature",
       "title": "Anthropic appoints KiYoung Choi as Representative Director of Korea",
@@ -292,6 +292,17 @@
     {
       "date": "2026-05-19",
       "type": "feature",
+      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
+      "summary": "KPMG will deploy Claude across its 276,000+ global employees and embed it into its Digital Gateway platform to enhance client services in tax, legal, and private equity work.",
+      "tags": [
+        "Enterprise",
+        "Partnership"
+      ],
+      "url": "https://www.anthropic.com/news/anthropic-kpmg"
+    },
+    {
+      "date": "2026-05-19",
+      "type": "feature",
       "title": "Anthropic acquires Stainless",
       "summary": "Anthropic acquired Stainless, a company specializing in SDK generation and MCP server tooling, to help Claude agents connect more easily with external data and systems.",
       "tags": [
@@ -300,17 +311,6 @@
         "Agents"
       ],
       "url": "https://www.anthropic.com/news/anthropic-acquires-stainless"
-    },
-    {
-      "date": "2026-05-19",
-      "type": "feature",
-      "title": "KPMG integrates Claude across its core business and workforce of more than 276,000 in strategic alliance",
-      "summary": "KPMG will deploy Claude across its 276,000+ global employees and embed it into its Digital Gateway platform to enhance client services in tax, legal, and private equity work.",
-      "tags": [
-        "Enterprise",
-        "Partnership"
-      ],
-      "url": "https://www.anthropic.com/news/anthropic-kpmg"
     },
     {
       "date": "2026-05-15",
